@@ -34,13 +34,29 @@ Role-based access (teacher/admin views)
 
 Web dashboard with login, registration, and attendance table
 
-Demo Screenshots (from /demo/ folder)
-Login Page (/demo/sign-in.png)
+Demo Screenshots  
+*(from `/demo/` folder)*
 
-Home Page (/demo/homepage.png)
+- [Login Page](./demo/sign-in.png)
+- 
+- [Home Page](./demo/homepage.png)
+- 
+- [Registration Form](./demo/registration.png)
+- 
+- [Google Sheet Logging](./demo/sheet.png)
+- 
+- [Attendance Table View](./demo/table_view.png)
 
-Registration Form (/demo/registration.png)
+ Why This Repository Is Public but Code Is Private
 
-Google Sheet Logging (/demo/sheet.png)
+This GitHub repository is meant to showcase the project without exposing sensitive credentials or violating Google Cloud usage policies. It serves as:
 
-Attendance Table View (/demo/table_view.png)
+- A project reference for university applications  
+- A portfolio entry for recruiters or collaborators  
+- A technical overview for those interested in replicating the idea  
+
+To request private access (for academic or evaluation purposes), contact:
+
+**Email:** [veekshithjackson@gmail.com](mailto:veekshithjackson@gmail.com)
+
+Folder Structure
